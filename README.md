@@ -1,7 +1,3 @@
-[![GitHub - Rushi86848/Airbnb-Data-Analysis: I Created this Internship Data Analysis Project Using ...](https://tse4.mm.bing.net/th?id=OIP.LxVL1vsM9JWuqYaI5lyxEgHaEw\&pid=Api)](https://github.com/Rushi86848/Airbnb-Data-Analysis)
-
-Certainly! Here's a polished and professional GitHub README for your project titled:
-
 # Data-Driven Insights and Price Optimization for Airbnb Listings
 
 ---
@@ -48,52 +44,6 @@ This project presents an end-to-end data science pipeline analyzing over 270,000
 
 ---
 
-## 📁 Project Structure
-
-```
-├── data/
-│   ├── raw/                 # Original raw datasets
-│   └── processed/           # Cleaned and processed datasets
-├── notebooks/               # Jupyter notebooks for EDA and modeling
-├── src/                     # Source code for data processing and modeling
-├── reports/                 # Generated reports and visualizations
-├── requirements.txt         # Python dependencies
-└── README.md                # Project overview
-```
-
----
-
-## 🚀 Getting Started
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/yourusername/airbnb-price-optimization.git
-   cd airbnb-price-optimization
-   ```
-
-2. **Create a virtual environment**:
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-
-3. **Install dependencies**:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Run Jupyter Notebook**:
-
-   ```bash
-   jupyter notebook
-   ```
-
-   Navigate to the `notebooks/` directory to explore the analysis.
-
----
 
 ## 📈 Results & Insights
 
@@ -129,5 +79,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to customize this README further by adding badges, links to live dashboards, or deployment instructions if applicable. Let me know if you need assistance with any specific section!
